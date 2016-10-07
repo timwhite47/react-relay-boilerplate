@@ -15,7 +15,7 @@
     "babel-relay-plugin": "^0.9.3",
     "graphql": "^0.7.1",
     "react": "^15.3.2",
-    "react-cutestrap": "file:///Users/timwhite/Code/react-cutestrap",
+    "react-cutestrap": "git+https://github.com/timwhite47/react-cutestrap.git",
     "react-dom": "^15.3.2",
     "react-relay": "^0.9.3",
     "sync-request": "^3.0.1",

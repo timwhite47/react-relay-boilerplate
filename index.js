@@ -5,7 +5,7 @@ import Relay from 'react-relay';
 import { Button } from 'react-cutestrap';
 import { render } from 'react-dom';
 
-const FB_ACCESS_TOKEN = 'EAAExRkR7rEQBAMhoZA04PwShoAv2ORvfCH0sUL6UQ3DyuSe9u9Bu8aUZC0UEcXU5bZAr8tuamRM2VBNCRSbsch36JX6d2JxAbrcZB5UgFjEeJAmwHcJopfZAhBCfKjCMt0guI46OCO73IOrrCZCMQQbWfQgrL5EskmHo9PfaHWZCAZDZD';
+const FB_ACCESS_TOKEN = 'CHANGE_ME';
 
 class Welcome extends React.Component {
   render() {

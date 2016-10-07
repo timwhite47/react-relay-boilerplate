@@ -10,7 +10,7 @@ var response = request('GET', graphQLEndpoint, {
 });
 
 var schema = JSON.parse(response.body.toString('utf-8'));
-console.log(schema);
+
 module.exports = babelRelayPlugin(schema.data, {
   abortOnError: true,
 });
