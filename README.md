@@ -20,4 +20,10 @@ To install:
 
   # Install Bower Dependencies
   bower install
+
+  # Start Server
+  npm start
+
+  # Start Webpack
+  npm run assets
 ```
