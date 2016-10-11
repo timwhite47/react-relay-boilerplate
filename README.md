@@ -7,7 +7,7 @@ To install:
   git clone --depth=1 --branch=master https://github.com/timwhite47/react-relay-boilerplate.git <YOUR_NEW_PROJECT>
 
   # Remove git history from boilerplate
-  cd <YOUR_NEW_PROJECT> rm -rf .git/
+  cd <YOUR_NEW_PROJECT> && rm -rf .git/
 
   # Initialize new git repo.
   git init
